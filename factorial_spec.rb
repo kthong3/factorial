@@ -15,6 +15,5 @@ describe '#factorial' do
 
       expect(calculated_factorial).to eq known_factorial
     end
-
   end
 end
